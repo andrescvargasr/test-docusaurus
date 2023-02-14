@@ -14,5 +14,3 @@ function HelloDocusaurus() {
     )
 }
 ```
-
-Hola don Dario.
