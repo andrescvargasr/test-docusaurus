@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_docusaurus=self.webpackChunktest_docusaurus||[]).push([[9637],{1880:(e,t,u)=>{u.r(t),u.d(t,{default:()=>l});var a=u(7294),s=u(7676);function l(){return a.createElement(s.Z,null,a.createElement("h1",null,"My React page"),a.createElement("p",null,"This is a React page"))}}}]);
