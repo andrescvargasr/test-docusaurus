@@ -6,7 +6,7 @@ export default function MyReactPage() {
     <Layout>
       <h1>My React page</h1>
       <p>This is a React page</p>
-      <p>Remenber, you can use JSX, MDX, MD to your docs files :D</p>
+      <p>Remember, you can use JSX, MDX, MD to your docs files :D</p>
     </Layout>
   );
 }
