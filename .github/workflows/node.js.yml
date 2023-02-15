@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main", "alpha" ]
+    branches: [ "master", "alpha" ]
   pull_request:
-    branches: [ "main", "alpha" ]
+    branches: [ "master", "alpha" ]
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
